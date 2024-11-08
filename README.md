@@ -20,7 +20,7 @@ Como IDEl, podemos usar o IntelliJ IDEA.
 Primeiro, faça o clone deste repositório para o seu ambiente local:
 
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git 
+git clone https://github.com/VitorRamires468/Lista_ED_JAVA.git
 
 cd nome-do-repositorio
 
